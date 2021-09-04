@@ -2,19 +2,19 @@
     {
         "title":"What Is A Computer?",
         "subtitle":"Computer is a tool to calculate and do other things.",
-        "image_url":"https://cdn.pixabay.com/photo/2016/11/29/06/18/home-office-1867761_960_720.jpg",
+        "image_url":"https://raw.githubusercontent.com/GithubArmy/BasicAPI/main/Image%20upload/computer.jpg",
         "detail":"A computer is a machine that can be programmed to carry out sequences of arithmetic or logical operations automatically. Modern computers can perform generic sets of operations known as programs. These programs enable computers to perform a wide range of tasks. A computer system is a 'complete' computer that includes the hardware, operating system (main software), and peripheral equipment needed and used for 'full' operation. This term may also refer to a group of computers that are linked and function together, such as a computer network or computer cluster.\n\nA broad range of industrial and consumer products use computers as control systems. Simple special-purpose devices like microwave ovens and remote controls are included, as are factory devices like industrial robots and computer-aided design, as well as general-purpose devices like personal computers and mobile devices like smartphones. Computers power the Internet, which links hundreds of millions of other computers and users."
     },
     {
         "title":"What Is Flutter?",
         "subtitle":"Tool for developing UI (User Interface) made by Google.",
-        "image_url":"https://cdn.pixabay.com/photo/2014/03/22/22/17/phone-292994_960_720.jpg",
+        "image_url":"https://raw.githubusercontent.com/GithubArmy/BasicAPI/main/Image%20upload/app.jpg",
         "detail":"Flutter is an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, Mac, Windows, Google Fuchsia, and the web from a single codebase."
     },
     {
         "title":"What Is Python?",
         "subtitle":"An easy programming language made in 1991.",
-        "image_url":"https://cdn.pixabay.com/photo/2016/07/13/08/48/mobile-phone-1513945_960_720.jpg",
+        "image_url":"https://raw.githubusercontent.com/GithubArmy/BasicAPI/main/Image%20upload/python.jpg",
         "detail":"Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects."
     }
 ]
